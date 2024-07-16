@@ -1,5 +1,7 @@
 import Typewriter from "typewriter-effect";
 import introImg from "../assesets/image/appintro1.jpg"
+import introImg2 from "../assesets/image/rsz_1appintro2.jpg"
+import introImg3 from "../assesets/image/appintro3.jpg"
 
 export default function IntroContent() {
     return (
@@ -18,24 +20,30 @@ export default function IntroContent() {
                         There are 10 types of people in the world
                         <br /> one that know binary, one doesn't
                     </p>
-                    <Typewriter
-                        options={{
-                            strings: [
-                                'I like math and logics, helps build up brain!',
-                                'Problem solving is the main fun of coding',
-                                'I enjoy building cool apps, relistic or irrelistic',
-                            ],
-                            autoStart: true,
-                            loop: true,
-                            deleteSpeed: 10,
-                        }}
-                    />
+                    <div className="intro--conent" >
+                        <Typewriter
+                            options={{
+                                strings: [
+                                    'I like math and logics, helps build up brain!',
+                                    'Problem solving is the main fun of coding',
+                                    'I enjoy building cool apps, relistic or irrelistic',
+                                ],
+                                autoStart: true,
+                                loop: true,
+                                deleteSpeed: 10,
+                            }}
+                        />
+                    </div>
                 </div>
-                <button className="btn btn--primary">More About Me</button>
-                <button className="btn btn--primary">Contact Me Now</button>
-                <div className="content--section--image" >
-                    <img src={introImg} alt="Intro Image" />
+                <div className="btn--group">
+                    <button className="btn btn-primary">More About Me</button>
+                    <button className="btn btn-primary">Contact Me Now</button>
                 </div>
+            </div>
+                <div className="content--section--image order-1 order-lg-2 h-100" >
+                {/* <img src={introImg} alt="Intro1" /> */}
+                <img src={introImg2} alt="Intro2" />
+                {/* <img src={introImg3} alt="Intro3" /> */}
             </div>
         </section>
     )
