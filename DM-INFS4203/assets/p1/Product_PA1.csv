@@ -1,0 +1,200 @@
+productid,name,price
+1,Adjustable Race,1.6000
+2,Bearing Ball,0.8000
+3,BB Ball Bearing,2.4000
+4,Headset Ball Bearings,0.0000
+5,Blade,189.6000
+6,LL Crankarm,380.4000
+7,ML Crankarm,190.8000
+8,HL Crankarm,319.0000
+9,Chainring Bolts,0.0000
+10,Chainring Nut,192.6000
+11,Chainring,193.2000
+12,Crown Race,516.8000
+13,Chain Stays,64.8000
+14,Decal 1,195.0000
+15,Decal 2,130.4000
+16,Down Tube,457.8000
+17,Mountain End Caps,590.4000
+18,Road End Caps,592.2000
+19,Touring End Caps,0.0000
+20,Fork End,397.2000
+21,Freewheel,531.2000
+22,Flat Washer 1,0.0000
+23,Flat Washer 6,0.0000
+24,Flat Washer 2,0.0000
+25,Flat Washer 9,0.0000
+26,Flat Washer 4,0.0000
+27,Flat Washer 3,415.2000
+28,Flat Washer 8,0.0000
+29,Flat Washer 5,417.6000
+30,Flat Washer 7,418.8000
+31,Fork Crown,350.0000
+32,Front Derailleur Cage,561.6000
+33,Front Derailleur Linkage,0.0000
+34,Guide Pulley,568.0000
+35,LL Grip Tape,142.4000
+36,ML Grip Tape,0.0000
+37,HL Grip Tape,0.0000
+38,Thin-Jam Hex Nut 9,71.8000
+39,Thin-Jam Hex Nut 10,144.0000
+40,Thin-Jam Hex Nut 1,144.4000
+41,Thin-Jam Hex Nut 2,144.8000
+42,Thin-Jam Hex Nut 15,72.6000
+43,Thin-Jam Hex Nut 16,72.8000
+44,Thin-Jam Hex Nut 5,73.0000
+45,Thin-Jam Hex Nut 6,146.4000
+46,Thin-Jam Hex Nut 3,440.4000
+47,Thin-Jam Hex Nut 4,441.6000
+48,Thin-Jam Hex Nut 13,73.8000
+49,Thin-Jam Hex Nut 14,74.0000
+50,Thin-Jam Hex Nut 7,445.2000
+51,Thin-Jam Hex Nut 8,446.4000
+52,Thin-Jam Hex Nut 12,596.8000
+53,Thin-Jam Hex Nut 11,448.8000
+54,Hex Nut 5,150.0000
+55,Hex Nut 6,225.6000
+56,Hex Nut 16,75.4000
+57,Hex Nut 17,151.2000
+58,Hex Nut 7,151.6000
+59,Hex Nut 8,152.0000
+60,Hex Nut 9,152.4000
+61,Hex Nut 22,76.4000
+62,Hex Nut 23,76.6000
+63,Hex Nut 12,76.8000
+64,Hex Nut 13,154.0000
+65,Hex Nut 1,0.0000
+66,Hex Nut 10,464.4000
+67,Hex Nut 11,465.6000
+68,Hex Nut 2,0.0000
+69,Hex Nut 20,78.0000
+70,Hex Nut 21,78.2000
+71,Hex Nut 3,156.8000
+72,Hex Nut 14,471.6000
+73,Hex Nut 15,472.8000
+74,Hex Nut 4,158.0000
+75,Hex Nut 18,475.2000
+76,Hex Nut 19,476.4000
+77,Handlebar Tube,636.8000
+78,Head Tube,79.8000
+79,LL Hub,640.0000
+80,HL Hub,721.8000
+81,Keyed Washer,723.6000
+82,External Lock Washer 3,0.0000
+83,External Lock Washer 4,0.0000
+84,External Lock Washer 9,0.0000
+85,External Lock Washer 5,0.0000
+86,External Lock Washer 7,0.0000
+87,External Lock Washer 6,489.6000
+88,External Lock Washer 1,0.0000
+89,External Lock Washer 8,492.0000
+90,External Lock Washer 2,0.0000
+91,Internal Lock Washer 3,0.0000
+92,Internal Lock Washer 4,0.0000
+93,Internal Lock Washer 9,0.0000
+94,Internal Lock Washer 5,0.0000
+95,Internal Lock Washer 7,0.0000
+96,Internal Lock Washer 6,500.4000
+97,Internal Lock Washer 10,0.0000
+98,Internal Lock Washer 1,0.0000
+99,Internal Lock Washer 8,504.0000
+100,Internal Lock Washer 2,0.0000
+101,Thin-Jam Lock Nut 9,84.4000
+102,Thin-Jam Lock Nut 10,169.2000
+103,Thin-Jam Lock Nut 1,169.6000
+104,Thin-Jam Lock Nut 2,170.0000
+105,Thin-Jam Lock Nut 15,85.2000
+106,Thin-Jam Lock Nut 16,85.4000
+107,Thin-Jam Lock Nut 5,85.6000
+108,Thin-Jam Lock Nut 6,171.6000
+109,Thin-Jam Lock Nut 3,516.0000
+110,Thin-Jam Lock Nut 4,517.2000
+111,Thin-Jam Lock Nut 13,86.4000
+112,Thin-Jam Lock Nut 14,86.6000
+113,Thin-Jam Lock Nut 7,520.8000
+114,Thin-Jam Lock Nut 8,522.0000
+115,Thin-Jam Lock Nut 12,697.6000
+116,Thin-Jam Lock Nut 11,524.4000
+117,Lock Nut 5,175.2000
+118,Lock Nut 6,263.4000
+119,Lock Nut 16,88.0000
+120,Lock Nut 17,176.4000
+121,Lock Nut 7,176.8000
+122,Lock Nut 8,177.2000
+123,Lock Nut 9,177.6000
+124,Lock Nut 22,89.0000
+125,Lock Nut 23,89.2000
+126,Lock Nut 12,89.4000
+127,Lock Nut 13,179.2000
+128,Lock Nut 1,0.0000
+129,Lock Nut 10,540.0000
+130,Lock Nut 11,541.2000
+131,Lock Nut 2,0.0000
+132,Lock Nut 20,90.6000
+133,Lock Nut 21,90.8000
+134,Lock Nut 3,182.0000
+135,Lock Nut 14,547.2000
+136,Lock Nut 15,548.4000
+137,Lock Nut 4,183.2000
+138,Lock Nut 19,734.4000
+139,Lock Nut 18,552.0000
+140,Lock Ring,829.8000
+141,Lower Head Race,184.8000
+142,Lock Washer 4,0.0000
+143,Lock Washer 5,0.0000
+144,Lock Washer 10,0.0000
+145,Lock Washer 6,0.0000
+146,Lock Washer 13,0.0000
+147,Lock Washer 8,0.0000
+148,Lock Washer 1,0.0000
+149,Lock Washer 7,564.0000
+150,Lock Washer 12,0.0000
+151,Lock Washer 2,0.0000
+152,Lock Washer 9,567.6000
+153,Lock Washer 3,0.0000
+154,Lock Washer 11,570.0000
+155,Metal Angle,666.4000
+156,Metal Bar 1,190.8000
+157,Metal Bar 2,573.6000
+158,Metal Plate 2,574.8000
+159,Metal Plate 1,0.0000
+160,Metal Plate 3,577.2000
+161,Metal Sheet 2,482.0000
+162,Metal Sheet 3,483.0000
+163,Metal Sheet 7,774.4000
+164,Metal Sheet 4,485.0000
+165,Metal Sheet 5,388.8000
+166,Metal Sheet 6,389.6000
+167,Metal Sheet 1,585.6000
+168,Metal Tread Plate,0.0000
+169,LL Nipple,196.0000
+170,HL Nipple,196.4000
+171,Paint - Black,688.8000
+172,Paint - Red,98.6000
+173,Paint - Silver,889.2000
+174,Paint - Blue,198.0000
+175,Paint - Yellow,297.6000
+176,Pinch Bolt,0.0000
+177,Cup-Shaped Race,403.2000
+178,Cone-Shaped Race,909.0000
+179,Reflector,910.8000
+180,LL Mountain Rim,608.4000
+181,ML Mountain Rim,914.4000
+182,HL Mountain Rim,203.6000
+183,LL Road Rim,306.0000
+184,ML Road Rim,0.0000
+185,HL Road Rim,0.0000
+186,Touring Rim,0.0000
+187,LL Mountain Seat Assembly,133.3400
+188,ML Mountain Seat Assembly,147.1400
+189,HL Mountain Seat Assembly,196.9200
+190,LL Road Seat Assembly,133.3400
+191,ML Road Seat Assembly,147.1400
+192,HL Road Seat Assembly,196.9200
+193,LL Touring Seat Assembly,133.3400
+194,ML Touring Seat Assembly,147.1400
+195,HL Touring Seat Assembly,196.9200
+196,LL Spindle/Axle,418.4000
+197,HL Spindle/Axle,733.6000
+198,LL Shell,630.0000
+199,HL Shell,105.2000

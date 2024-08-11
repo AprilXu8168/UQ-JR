@@ -1,0 +1,5 @@
+create table sales_v1(salesid integer, customerid integer);
+
+INSERT INTO sales_v1 (salesid, customerid)
+SELECT salesid, customerid
+FROM sales

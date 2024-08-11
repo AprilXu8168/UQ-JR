@@ -1,2 +1,2 @@
-# aprilApp
-Contains frontend webpage with profile and backend apps 
+# UQ- JR
+Contains demo code for tutorials 

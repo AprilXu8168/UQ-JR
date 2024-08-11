@@ -1,0 +1,4 @@
+create table sales_v2(salesid integer, salespersonid integer,productid integer,quantity integer);
+
+INSERT INTO sales_v2 (salesid, salespersonid, productid, quantity)
+SELECT salesid, salespersonid, productid, quantity FROM sales
